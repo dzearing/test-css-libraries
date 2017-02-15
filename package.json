@@ -1,0 +1,32 @@
+{
+  "name": "radium-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/aphrodite": "^0.5.5",
+    "@types/react": "^15.0.7",
+    "@types/react-dom": "^0.14.23",
+    "ts-loader": "^2.0.0",
+    "tslint": "^4.4.2",
+    "tslint-loader": "^3.3.0",
+    "typescript": "^2.1.5",
+    "webpack": "^2.2.1",
+    "webpack-bundle-analyzer": "^2.2.1",
+    "webpack-dev-server": "^2.3.0",
+    "webpack-livereload-plugin": "^0.10.0"
+  },
+  "dependencies": {
+    "aphrodite": "^1.1.0",
+    "glamor": "^2.20.22",
+    "office-ui-fabric-react": "^1.7.0",
+    "radium": "^0.18.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
